@@ -1,0 +1,23 @@
+body {
+    background-color: black
+}
+.post{
+background-color: white;
+width:500px;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+}
+.postheader{
+    display:flex;
+}
+h5 {
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+.fa-solid fa-ellipsis-vertical {
+    margin-left: auto !important;
+    margin-right: 10px !important;
+    margin-top: 10px !important;
+}
