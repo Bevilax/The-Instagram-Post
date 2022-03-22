@@ -11,13 +11,24 @@ transform: translate(-50%, -50%);
 }
 .postheader{
     display:flex;
+    margin: auto;
+    padding: 10px;
 }
 h5 {
     margin-top: 1px;
     margin-bottom: 1px;
 }
-.fa-solid fa-ellipsis-vertical {
+.headerMenu {
     margin-left: auto !important;
     margin-right: 10px !important;
     margin-top: 10px !important;
+}
+.image {
+    margin-bottom: 10px;
+}
+.postfooter {
+    margin: 10px;
+}
+.middleLivro {
+    margin-left: 390px !important;
 }
